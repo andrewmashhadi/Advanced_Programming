@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg_red.PNG</file>
+        <file>win_star.png</file>
+        <file>game_background.PNG</file>
+        <file>expsprite.png</file>
+        <file>main_bg.png</file>
+        <file>game_over.png</file>
+        <file>trojansprite.png</file>
+        <file>Ucla_player_sprite.png</file>
+        <file>keyboard_img.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>explosion.mp3</file>
+        <file>Planet_Zebes.mp3</file>
+        <file>Stage_Clear.mp3</file>
+        <file>throw.mp3</file>
+        <file>Yoshi's_Island.mp3</file>
+        <file>round_lost.mp3</file>
+    </qresource>
+</RCC>
